@@ -1,0 +1,8 @@
+*.pyc
+*.bak
+*.swp
+*.log
+/databases
+/cache
+/errors
+/sessions
